@@ -9,6 +9,3 @@ __pycache__/
 
 # Pycharm ayar dosyalarini yukleme
 .idea/
-
-# (Isteğe bagli) Eger CSV sonuclarini yuklemek istemiyorsaniz bunu da ekleyin:
-*.csv
