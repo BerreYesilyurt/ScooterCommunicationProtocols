@@ -1,0 +1,14 @@
+# Sanal ortam dosyalarini yukleme
+.venv/
+venv/
+env/
+
+# Python derleme dosyalarini yukleme
+__pycache__/
+*.pyc
+
+# Pycharm ayar dosyalarini yukleme
+.idea/
+
+# (Isteğe bagli) Eger CSV sonuclarini yuklemek istemiyorsaniz bunu da ekleyin:
+*.csv
